@@ -6,7 +6,7 @@ name: Build and deploy container app to Azure Web App - teasef3fa3
 on:
   push:
     branches:
-      - main
+      - mainx
   workflow_dispatch:
 
 jobs:
